@@ -8,6 +8,10 @@ Jia Yu is a co-founder of Wherobots Inc., a venture-backed company for helping b
   <img height=120 align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=sedona&show_owner=true" />
 </a>
 
+<a href="https://github.com/wherobots/havasu">
+  <img height=120 align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=wherobots&repo=havasu&show_owner=true" />
+</a>
+
 </br>
 
 ## My work on Apache Sedona community tools
