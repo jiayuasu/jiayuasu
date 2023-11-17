@@ -1,6 +1,15 @@
+# WHEROBOTS IS HIRING!
+
+Wherobots is the spatial data analytics and AI platform trusted in production, at scale, from the original creators of Apache Sedona.
+
+Join our team and be part of a dynamic environment where your contributions matter. Explore our exciting opportunities and make your mark in the world of Wherobots: https://wherobots.com/careers/
+
+## Message to Apache Sedona contributors and users
+We are looking for passionate, skilled, and experienced software engineers to join Wherobots’ dynamic team in building the distributed geospatial cloud database of the future. As a software engineer in our SedonaDB & geospatial analytics team, you will build new features, design and implement APIs to extend our geospatial query capabilities, and improve the performance, observability, and reliability of SedonaDB’s distributed query engine.
+
 # About me
 
-Jia Yu is a co-founder of Wherobots Inc., a venture-backed company for helping businesses to drive insights from spatiotemporal data. He was a Tenure-Track Assistant Professor of Computer Science at Washington State University from 2020 - 2023. He obtained his Ph.D. in Computer Science from Arizona State University. His research focuses on large-scale database systems and geospatial data management. In particular, he worked on distributed geospatial data management systems, database indexing, and geospatial data visualization. Jia’s research outcomes have appeared in the most prestigious database / GIS conferences and journals, including SIGMOD, VLDB, ICDE, SIGSPATIAL and VLDB Journal. He is the main contributor of several open-sourced research projects such as Apache Sedona, a cluster computing framework for processing big spatial data, which receives 1 million downloads per month and has users / contributors from major companies.
+Jia Yu is a co-founder of Wherobots Inc., a venture-backed company for helping businesses to drive insights from spatiotemporal data. He was a Tenure-Track Assistant Professor of Computer Science at Washington State University from 2020 to 2023. He obtained his Ph.D. in Computer Science from Arizona State University. His research focuses on large-scale database systems and geospatial data management. In particular, he worked on distributed geospatial data management systems, database indexing, and geospatial data visualization. Jia’s research outcomes have appeared in the most prestigious database / GIS conferences and journals, including SIGMOD, VLDB, ICDE, SIGSPATIAL and VLDB Journal. He is the main contributor of several open-sourced research projects such as Apache Sedona, a cluster computing framework for processing big spatial data, which receives 1 million downloads per month and has users / contributors from major companies.
 
 ## My work on Apache Sedona
 
