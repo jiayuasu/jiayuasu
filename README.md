@@ -40,6 +40,9 @@ Jia Yu is a co-founder of Wherobots Inc., a venture-backed company for helping b
 <a href="https://github.com/jiayuasu/GeoSparkTemplateProject">
   <img height=100 align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=jiayuasu&repo=GeoSparkTemplateProject&show_owner=true" />
 </a>
+<a href="https://github.com/jiayuasu/sedona-sync-action">
+  <img height=100 align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=jiayuasu&repo=sedona-sync-action&show_owner=true" />
+</a>
 
 ## My work on database indexing
 
